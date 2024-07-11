@@ -115,9 +115,11 @@ footer {
   
   .footer-icons a {
     margin-right: 10px;
-    width: 50%;
-    height: 50%;
-    align-items: center; 
-    padding: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
     background-color: #ffffff;
   }
