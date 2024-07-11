@@ -1,0 +1,123 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #000000; /* Añadido: fondo negro para toda la página */
+    color: #ffffff; /* Añadido: texto blanco para mejor contraste */
+}
+
+.navbar {
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+#presentacion {
+    background-color: #1a1a1a; /* Cambiado: fondo más oscuro para esta sección */
+    padding: 50px 0;
+}
+
+#presentacion h2 {
+    color: #ffffff;
+    margin-bottom: 2rem;
+}
+
+.presentacion-item {
+    display: flex;
+    flex-direction: column;
+    align-items: space-between;
+}
+
+.presentacion-item .icon-container {
+    margin-top: auto;
+  }
+
+.presentacion-item p {
+    text-align: justify;
+    font-size: 0.9rem;
+    line-height: 1.5;
+    margin-bottom: 1rem;
+}
+
+.icon-container {
+    background-color: #17a3b8;
+    width: 100%;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 1rem;
+}
+
+.icon-container i {
+    color: #ffffff;
+    font-size: 1.5rem;
+}
+
+#presentacion .col-md-4:nth-child(2) .presentacion-item {
+    flex-direction: column-reverse;
+}
+
+#destacados .card {
+    margin-bottom: 20px; 
+    background-color: #328998; /* Añadido: fondo oscuro para las tarjetas */
+    color: #ffffff; /* Añadido: texto blanco para las tarjetas */
+}
+
+.card-img-top {  
+    
+    width: 250px; /* establecer un ancho fijo para todas las imágenes */
+    height: 150px; /* ancho fijo para todas las imágenes */
+    object-fit: center; /* escale la imagen para que se ajuste al contenedor manteniendo la relación de aspecto */
+    
+  }
+#contacto {
+    background-color: #000000; /* Cambiado: fondo más oscuro para esta sección */
+    padding: 50px 0;
+}
+
+footer {
+    background-color: #328998;
+    color: white;
+    padding: 20px 0;
+}
+
+/* Añadido: estilo para los inputs del formulario */
+#contacto input, #contacto textarea {
+    background-color: #2a2a2a;
+    border: 1px solid #444;
+    color: #ffffff;
+}
+
+/* Añadido: estilo para el botón del formulario */
+#contacto button {
+    background-color: #328998;
+    border: none;
+}
+
+#contacto button:hover {
+    background-color: #ffffff;
+}
+
+footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    background-color: #328998;
+  }
+  
+  .footer-text {
+    margin-right: 20px;
+  }
+  
+  .footer-icons {
+    display: flex;
+    align-items: center;
+    
+  }
+  
+  .footer-icons a {
+    margin-right: 10px;
+    width: 50%;
+    height: 50%;
+    align-items: center; 
+    padding: 5px;
+    background-color: #ffffff;
+  }
