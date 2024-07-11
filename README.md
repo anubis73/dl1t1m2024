@@ -1,8 +1,8 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
-<h1 align="center">Hi 👋, I'm Anubis</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Anubis73&label=Profile%20views&color=0e75b6&style=flat" alt="Anubis73" /> </p>
+<h1 align="center">Hi 👋, I'm Anubis <img align="left" height="250" src="https://www.wallpaperflare.com/static/518/66/328/star-wars-video-games-star-wars-battlefront-ii-star-wallpaper-preview.jpg"  /></h1>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Anubis73&theme=onedark" alt="Anubis73" /></a> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=Anubis73&label=Profile%20views&color=0e75b6&style=flat" alt="Anubis73" /> </p>
+
 
 - 🔭 I’m currently working on [Land Page Viajes Chile](https://anubis73.github.io/dl1t1m2024/)
 - 🌱 I’m currently learning **Desarrollo de App Front-End**
