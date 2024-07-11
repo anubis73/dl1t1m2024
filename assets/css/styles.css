@@ -62,9 +62,9 @@ body {
 
 .card-img-top {  
     
-    width: 250px; /* establecer un ancho fijo para todas las imágenes */
+    width: 100%; /* establecer un ancho fijo para todas las imágenes */
     height: 150px; /* ancho fijo para todas las imágenes */
-    object-fit: center; /* escale la imagen para que se ajuste al contenedor manteniendo la relación de aspecto */
+    object-fit: cover; /* escale la imagen para que se ajuste al contenedor manteniendo la relación de aspecto */
     
   }
 #contacto {
